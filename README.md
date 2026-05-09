@@ -1,18 +1,43 @@
-## Hi there 👋
+# SRE / Infrastructure Engineer
 
-<!--
-**lytalk/lytalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and operate Linux-based infrastructure systems.
 
-Here are some ideas to get you started:
+Focus on reliability, scalability, and observability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-![lytalk's GitHub stats](https://github-readme-stats.vercel.app/api?username=lytalk&count_private=true&show_icons=true&theme=codeSTACKr&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+## 🧭 Focus Areas
+
+- Linux Infrastructure & System Operations
+- Cloud Native Architecture
+- Distributed Systems & Platform Engineering
+- Observability (metrics, logs, tracing)
+- Incident response & root cause analysis
+
+---
+
+## ⚙️ Tech Stack
+
+Linux · Docker · Kubernetes · Ansible  
+Prometheus · Grafana · Elasticsearch 
+Go · Python · Shell · CI/CD
+
+---
+
+## 🚀 Current Work
+
+- Building cloud-native infrastructure platforms
+- Improving system observability and reliability
+- Exploring AI-assisted operations (AIOps)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lytalk&theme=dark)
+
+---
+
+## 🧠 Philosophy
+
+> Keep systems simple, observable, and boring in production.
